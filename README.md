@@ -1,21 +1,28 @@
-<h1 align="center">Hi 👋, I'm Divyanshi Maheshwari</h1>
-<h3 align="center">Aspiring Software Developer | AIML & Web Enthusiast</h3>
+<h1 align="center">Hello World! </h1>
+<h1 align="center">I'm Divyanshi Maheshwari</h1>
+<h3 align="center">Aspiring Software Developer | AI & Web Enthusiast</h3>
 
 <p align="center">
- Currently learning Full Stack Development & Machine Learning <br>
- Interested in Web Development, DSA, and Problem Solving <br>
-  Goal: Build real-world impactful tech solutions
+🌱 Currently learning Full-Stack Development & Machine Learning <br>
+💡 Interested in Web Development, DSA, and Problem Solving <br>
+🎯 Goal: Build impactful real-world tech solutions
 </p>
 
 <p align="center">
-<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
-<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/divyanshi-maheshwari-/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Divyanshi_Maheshwari/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.geeksforgeeks.org/profile/divyaanshl7m">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -43,10 +50,10 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=divyaanshi1308-web&theme=dark&show_icons=true) <br>
-![](https://nirzak-streak-stats.vercel.app/?user=divyaanshi1308-web&theme=dark) <br>
+![](https://github-readme-stats.vercel.app/api?username=divyaanshi1308-web&theme=dark&show_icons=true)
+![](https://nirzak-streak-stats.vercel.app/?user=divyaanshi1308-web&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyaanshi1308-web&layout=compact&theme=dark)
 
 ---
