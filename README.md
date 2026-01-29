@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Divyanshi Maheshwari</h1>
-<h3 align="center">Aspiring Software Developer | AI & Web Enthusiast</h3>
+<h3 align="center">Aspiring Software Developer | AIML & Web Enthusiast</h3>
 
 <p align="center">
-🌱 Currently learning Full Stack Development & Machine Learning <br>
-💡 Interested in Web Development, DSA, and Problem Solving <br>
-🎯 Goal: Build real-world impactful tech solutions
+ Currently learning Full Stack Development & Machine Learning <br>
+ Interested in Web Development, DSA, and Problem Solving <br>
+  Goal: Build real-world impactful tech solutions
 </p>
 
 <p align="center">
@@ -45,8 +45,8 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=divyaanshi1308-web&theme=dark&show_icons=true)
-![](https://nirzak-streak-stats.vercel.app/?user=divyaanshi1308-web&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=divyaanshi1308-web&theme=dark&show_icons=true) <br>
+![](https://nirzak-streak-stats.vercel.app/?user=divyaanshi1308-web&theme=dark) <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyaanshi1308-web&layout=compact&theme=dark)
 
 ---
