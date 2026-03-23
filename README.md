@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! </h1>
 <h1 align="center">I'm Divyanshi Maheshwari</h1>
-<h3 align="center">Aspiring Software Developer | AI & Web Enthusiast</h3>
+<h3 align="center">Aspiring AI & ML Engineer</h3>
 
 <p align="center">
 🌱 Currently learning Full-Stack Development & Machine Learning <br>
