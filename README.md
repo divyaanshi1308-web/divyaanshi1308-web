@@ -1,6 +1,7 @@
-<h1 align="center">Hello World! </h1>
-<h1 align="center">I'm Divyanshi Maheshwari</h1>
-<h3 align="center">AI & ML Engineer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=55&duration=3000&pause=1500&color=D4AF37&center=true&vCenter=true&width=1100&lines=Divyanshi+Maheshwari"/>
+</p>
+<h4 align="center">AI & ML Engineer</h4>
 
 <p align="center">
 Currently learning Full-Stack Development & Machine Learning <br>
