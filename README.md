@@ -1,11 +1,11 @@
 <h1 align="center">Hello World! </h1>
 <h1 align="center">I'm Divyanshi Maheshwari</h1>
-<h3 align="center">Aspiring AI & ML Engineer</h3>
+<h3 align="center">AI & ML Engineer</h3>
 
 <p align="center">
-🌱 Currently learning Full-Stack Development & Machine Learning <br>
-💡 Interested in Web Development, DSA, and Problem Solving <br>
-🎯 Goal: Build impactful real-world tech solutions
+Currently learning Full-Stack Development & Machine Learning <br>
+Interested in Web Development, DSA, and Problem Solving <br>
+Goal: Build impactful real-world tech solutions
 </p>
 
 <p align="center">
@@ -20,9 +20,7 @@
 </a>
 </p>
 
----
-
-# 💻 Tech Stack
+# Tech Stack
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -48,14 +46,19 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 
----
 
-# 📊 GitHub Stats
+## Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+
+# GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=divyaanshi1308-web&theme=dark&show_icons=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=divyaanshi1308-web&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyaanshi1308-web&layout=compact&theme=dark)
 
----
 
 [![](https://visitcount.itsvg.in/api?id=divyaanshi1308-web&icon=0&color=0)](https://visitcount.itsvg.in)
