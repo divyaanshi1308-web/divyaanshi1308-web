@@ -1,65 +1,48 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=55&duration=3000&pause=1500&color=D4AF37&center=true&vCenter=true&width=1100&lines=Divyanshi+Maheshwari"/>
-</p>
-<h4 align="center">AI & ML Engineer</h4>
+<div align="center">
 
-<p align="center">
-Currently learning Full-Stack Development & Machine Learning <br>
-Interested in Web Development, DSA, and Problem Solving <br>
-Goal: Build impactful real-world tech solutions
-</p>
+# Hi, I'm Divyanshi Maheshwari
 
-<p align="center">
-<a href="https://www.linkedin.com/in/divyanshi-maheshwari-/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/Divyanshi_Maheshwari/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://www.geeksforgeeks.org/profile/divyaanshl7m">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
-</a>
+### AI & ML Engineer | Full Stack Developer
+
+Building intelligent software with AI, Machine Learning, and modern web technologies.
+
+<p>
+  <a href="https://www.linkedin.com/in/divyanshi-maheshwari-/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:divyaanshi1308@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
-# Tech Stack
+</div>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+---
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-
-
-## Contribution Snake
+## Tech Stack
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,fastapi,vite,mysql,mongodb,git,github,vscode,figma,tensorflow,pytorch,docker,postman&perline=12" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PDFMiner-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/pdfplumber-3776AB?style=for-the-badge"/>
+</p>
 
-# GitHub Stats
+---
 
-![](https://github-readme-stats.vercel.app/api?username=divyaanshi1308-web&theme=dark&show_icons=true)
-![](https://nirzak-streak-stats.vercel.app/?user=divyaanshi1308-web&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyaanshi1308-web&layout=compact&theme=dark)
+## Contribution Graph
 
-
-[![](https://visitcount.itsvg.in/api?id=divyaanshi1308-web&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyaanshi1308-web&theme=github-compact&hide_border=true" />
+</p>
