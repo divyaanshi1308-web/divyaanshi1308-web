@@ -13,7 +13,7 @@ Building intelligent software with AI, Machine Learning, and modern web technolo
   <a href="mailto:divyaanshi1308@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+  <a href="https://leetcode.com/u/Divyanshi_Maheshwari/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
   </a>
 </p>
